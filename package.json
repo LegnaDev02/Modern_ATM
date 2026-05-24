@@ -1,0 +1,28 @@
+{
+  "name": "modern_atm",
+  "version": "1.0.0",
+  "description": "Mini proyecto para aprender nuevo stack tecnologico: Typescript, React Native, Expo, PostgreSQL, NodeJS",
+  "main": "index.ts",
+  "scripts": {
+    "test": "ts node index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LegnaDev02/Modern_ATM.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/LegnaDev02/Modern_ATM/issues"
+  },
+  "homepage": "https://github.com/LegnaDev02/Modern_ATM#readme",
+  "devDependencies": {
+    "@types/express": "^5.0.6",
+    "@types/node": "^25.9.1",
+    "express": "^5.2.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^6.0.3"
+  }
+}
